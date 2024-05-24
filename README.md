@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Statistics
 - 👯 I’m looking to collaborate on ...
 -->
-
+<br>
 Hello, my name is Soyoung and I graduate [GIST University](https://www.gist.ac.kr/kr/main.html) majoring in Science and Technology. I am a front-end software developer with experience studying in a [Samsung Youth Software Academy](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) My technology stack involves Pythin, Java, C, Django, Vue.js and HTML/CSS/Javascript. Besides programming, I have an interest in language study (English, Japanses, Spanish)
 
 - 💬 Brainstorm with me over tech, algorithms, career and hobby
 - 📫 How to reach me: bayleaf07@naver.com
-<br>
 <br>
 **Languages and Tools:** 
 
