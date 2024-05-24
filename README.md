@@ -23,9 +23,9 @@ Hello, my name is Soyoung and I graduate GIST University majoring in Science and
 - 📫 How to reach me: bayleaf07@naver.com
 <br>
 <br>
-**Languages and Tools:** 
 
-![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
+
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
 <br>
