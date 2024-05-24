@@ -22,7 +22,7 @@ University majoring in Science and Technology. I am a front-end software develop
 
 <br>
 <br>
-- 💬 Brainstorm with me over tech, algorithms, career and hobby
+- 💬 Brainstorm with me over tech, algorithms, career and hobby<br>
 - 📫 How to reach me: bayleaf07@naver.com
 <br>
 <br>
