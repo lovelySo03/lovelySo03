@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <br>
 Hello, my name is Soyoung and I graduate
-[GIST](https://www.gist.ac.kr/)
+[GIST](https://www.gist.ac.kr)
 University majoring in Science and Technology. I am a front-end software developer with experience studying in a
-[Samsung Youth Software Academy](https://www.ssafy.com/) My technology stack involves Pythin, Java, C, Django, Vue.js and HTML/CSS/Javascript. Besides programming, I have an interest in language study (English, Japanses, Spanish)
+[Samsung Youth Software Academy](https://www.ssafy.com) My technology stack involves Pythin, Java, C, Django, Vue.js and HTML/CSS/Javascript. Besides programming, I have an interest in language study (English, Japanses, Spanish)
 
 <br>
 <br>
