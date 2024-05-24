@@ -19,7 +19,7 @@ Hello, my name is Rashmi Jadhav and I am a master's student at [Oregon State Uni
 
 - 🔭 I’m currently researching at the intersection of machine learning and databases with the [IDEA Lab](http://web.engr.oregonstate.edu/~termehca/)
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
-- 📫 How to reach me: rsjcoepit@gmail.com
+- 📫 How to reach me: bayleaf07@naver.com
 - 😄 Pronouns: Programmer/She/Her/Hers
 - ⚡ Fun fact: Checkout my [Lean2Lead Pune](https://www.linkedin.com/in/lean2lead-pune-bbb92a169) Community if you are ambitious!
 - 📝 [Resume](https://rusty-sj.github.io/media/Rashmi_Jadhav.pdf)
