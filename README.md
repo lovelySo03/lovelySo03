@@ -19,8 +19,6 @@ Hello, my name is Soyoung and I graduate [GIST University](https://www.gist.ac.k
 
 - 💬 Brainstorm with me over tech, algorithms, career and hobby
 - 📫 How to reach me: bayleaf07@naver.com
-
-<br>
 <br>
 <br>
 **Languages and Tools:** 
