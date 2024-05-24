@@ -15,14 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 <br>
-Hello, my name is Soyoung and I graduate [GIST](https://www.gist.ac.kr/kr/main.html)! University majoring in Science and Technology. I am a front-end software developer with experience studying in a [Samsung Youth Software Academy](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) My technology stack involves Python, Java, C, Django, Vue.js, and HTML/CSS/Javascript. Besides programming, I have an interest in language study (English, Japanese, Spanish).
-
-
-
-Hello, my name is Soyoung and I graduate [GIST](https://www.gist.ac.kr/kr/main.html)!
- [GIST](https://www.gist.ac.kr/kr/main.html)! 
-
-University majoring in Science and Technology. I am a front-end software developer with experience studying in a [Samsung Youth Software Academy](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) My technology stack involves Pythin, Java, C, Django, Vue.js and HTML/CSS/Javascript. Besides programming, I have an interest in language study (English, Japanses, Spanish)
+Hello, my name is Soyoung and I graduate [GIST](https://www.gist.ac.kr/kr/main.html)! University majoring in Science and Technology. I am a front-end software developer with experience studying in a [Samsung Youth Software Academy](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) My technology stack involves Pythin, Java, C, Django, Vue.js and HTML/CSS/Javascript. Besides programming, I have an interest in language study (English, Japanses, Spanish)
 
 - 💬 Brainstorm with me over tech, algorithms, career and hobby
 - 📫 How to reach me: bayleaf07@naver.com
