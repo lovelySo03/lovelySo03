@@ -24,8 +24,7 @@ Hello, my name is Soyoung and I graduate GIST University majoring in Science and
 <br>
 <br>
 
-
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
 <br>
@@ -48,3 +47,4 @@ Hello, my name is Soyoung and I graduate GIST University majoring in Science and
 ![lovelySo03 GitHub stats](https://github-readme-stats.vercel.app/api?username=lovelySo03&show_icons=true&theme=dracula)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovelySo03&layout=compact&theme=dracula)
+<br>
