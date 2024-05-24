@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Soyoung and I graduate GIST University [GIST](https://www.gist.ac.kr/kr/main.html) majoring in Computer Science. I am a full-stack software developer with three years of experience working as a Software Engineer at [eQ Technologic India Pvt. Ltd.](https://www.1eq.com/) My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.
+Hello, my name is Soyoung and I graduate GIST University [GIST](https://www.gist.ac.kr/kr/main.html) majoring in Computer Science. I am a front-end software developer with experience studying in a Samsung Youth Software Academy [SSFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) My technology stack involves Pythin, Java, C, Django, Vue.js and HTML/CSS/Javascript. Besides programming, I have an interest in language study (English, Japanses, Spanish)
 
-- 💬 Brainstorm with me over tech, algorithms, career, and music 
+- 💬 Brainstorm with me over tech, algorithms, career and hobby
 - 📫 How to reach me: bayleaf07@naver.com
 - 😄 Pronouns: Programmer/She/Her/Hers
 - ⚡ Fun fact: Checkout my [Lean2Lead Pune](https://www.linkedin.com/in/lean2lead-pune-bbb92a169) Community if you are ambitious!
