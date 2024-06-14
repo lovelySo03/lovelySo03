@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🤔 I’m looking for help with Statistics
 - 👯 I’m looking to collaborate on ...
+![lovelySo03 GitHub stats](https://github-readme-stats.vercel.app/api?username=lovelySo03&show_icons=true&theme=dracula)
 -->
 <br>
 Hello, my name is Soyoung and I graduate GIST University majoring in Science and Technology. I am a front-end software developer with experience studying in Samsung Youth Software Academy. My technology stack involves Pythin, Java, C, Django, Vue.js and HTML/CSS/Javascript. Besides programming, I have an interest in language study (English, Japanses, Spanish)
@@ -42,9 +43,6 @@ Hello, my name is Soyoung and I graduate GIST University majoring in Science and
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-
-
-![lovelySo03 GitHub stats](https://github-readme-stats.vercel.app/api?username=lovelySo03&show_icons=true&theme=dracula)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovelySo03&layout=compact&theme=dracula)
 <br>
