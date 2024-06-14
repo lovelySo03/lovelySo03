@@ -44,6 +44,4 @@ Hello, my name is Soyoung and I graduate GIST University majoring in Science and
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovelySo03&layout=compact&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovelySo03&layout=compact&theme=dracula)
 <br>
