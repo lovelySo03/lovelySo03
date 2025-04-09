@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![lovelySo03 GitHub stats](https://github-readme-stats.vercel.app/api?username=lovelySo03&show_icons=true&theme=dracula)
 -->
 <br>
-Hello, my name is Soyoung and I graduate GIST University majoring in Science and Technology. I am a WEB developer with experience studying in Samsung Youth Software Academy. My technology stack involves Pythin, Java, C, Django, Vue.js and HTML/CSS/Javascript. Besides programming, I have an interest in language study (English, Japanses, Spanish)
+Hello, my name is Soyoung and I graduate GIST University majoring in Science and Technology. I am a WEB developer with experience studying in Samsung Youth Software Academy. My technology stack involves Python, Java, C, Django, Vue.js and HTML/CSS/Javascript. Besides programming, I have an interest in language study (English, Japanses, Spanish)
 
 <br>
 <br>
